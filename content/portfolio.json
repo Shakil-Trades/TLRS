@@ -29,6 +29,12 @@
       "category": "Events",
       "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&q=70",
       "description": "Evening event coverage."
+    },
+    {
+      "title": "TLRS Logo",
+      "category": "Events",
+      "image": "/images/uploads/tlrs-portrait.jpg",
+      "description": "This is the logo for the living room studios"
     }
   ]
 }
