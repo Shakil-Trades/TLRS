@@ -1,22 +1,3 @@
 {
-  "items": [
-    {
-      "title": "Studio Beauty Edit",
-      "category": "Fashion & Beauty",
-      "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=800&q=70",
-      "description": "Editorial beauty campaign."
-    },
-    {
-      "title": "Executive Headshots",
-      "category": "Corporate Shoot",
-      "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?w=800&q=70",
-      "description": "Corporate headshot day for a 40-person team."
-    },
-    {
-      "title": "Rooftop Engagement",
-      "category": "Events",
-      "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&q=70",
-      "description": "Evening event coverage."
-    }
-  ]
+  "items": []
 }
