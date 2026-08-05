@@ -1,3 +1,9 @@
 {
-  "items": []
+  "items": [
+    {
+      "title": "LOGO",
+      "category": "Portraits",
+      "image": "/images/uploads/tlrs-portrait.jpg"
+    }
+  ]
 }
